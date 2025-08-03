@@ -21,7 +21,7 @@ Built using clean HTML, styled with responsive CSS Grid layout, and powered by J
 
 ## 📸 Preview
 
-![Calculator Screenshot](https://github.com/yourusername/your-repo-name/assets/your-image-link.png)
+![Calculator Screenshot](https://github.com/Deeksha-Mane/Calculator/blob/main/output.png)
 
 ---
 
